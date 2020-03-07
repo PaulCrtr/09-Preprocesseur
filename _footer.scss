@@ -1,0 +1,12 @@
+footer {
+  background-color: rgb(255, 126, 20);
+  display: flex;
+  justify-content: space-between;
+  padding-left: 2%;
+  padding-right: 2%;
+  align-items: center;
+  .boitesFooter {
+    list-style: none;
+    padding: 0;
+  }
+}
